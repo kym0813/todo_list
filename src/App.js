@@ -71,7 +71,7 @@ export default class App extends Component {
             <div className="container">
                 <div className="todoBlock">
                     <div className="title">
-                        <h1>할 일 목록1</h1>
+                        <h1>할 일 목록2</h1>
                     </div>
 
                     {this.state.todoData.map((data) => (
