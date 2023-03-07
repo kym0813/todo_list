@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae3b01e8.css",
-    "main.js": "/static/js/main.b670f6fc.js",
-    "static/js/787.af026a3f.chunk.js": "/static/js/787.af026a3f.chunk.js",
-    "index.html": "/index.html",
-    "main.ae3b01e8.css.map": "/static/css/main.ae3b01e8.css.map",
-    "main.b670f6fc.js.map": "/static/js/main.b670f6fc.js.map",
-    "787.af026a3f.chunk.js.map": "/static/js/787.af026a3f.chunk.js.map"
+    "main.css": "/inflearn_react/static/css/main.ae3b01e8.css",
+    "main.js": "/inflearn_react/static/js/main.30d1a095.js",
+    "static/js/787.af026a3f.chunk.js": "/inflearn_react/static/js/787.af026a3f.chunk.js",
+    "index.html": "/inflearn_react/index.html",
+    "main.ae3b01e8.css.map": "/inflearn_react/static/css/main.ae3b01e8.css.map",
+    "main.30d1a095.js.map": "/inflearn_react/static/js/main.30d1a095.js.map",
+    "787.af026a3f.chunk.js.map": "/inflearn_react/static/js/787.af026a3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae3b01e8.css",
-    "static/js/main.b670f6fc.js"
+    "static/js/main.30d1a095.js"
   ]
 }
