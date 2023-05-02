@@ -1,6 +1,6 @@
 {
-  "homepage": "https://kym0813.github.io/todo_list/",
-  "name": "inflearn_react",
+  "homepage": "https://kym0813.github.io/todolist_react/",
+  "name": "todolist_react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
