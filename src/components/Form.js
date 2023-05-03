@@ -5,6 +5,8 @@ export default function Form({ handleSubmit, value, setValue }) {
     setValue(e.target.value);
   };
 
+
+
   return (
     <form onSubmit={handleSubmit} className="flex pt-2">
       <input

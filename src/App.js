@@ -24,7 +24,11 @@ function App() {
         };
 
         // 원래 있던 할 일에 새로운 할 일 더해주기
-        setTodoData((prev) => [...prev, newTodo]);
+        if (newTodo.title !== "") {
+            setTodoData((prev) => [...prev, newTodo]);
+        }else{
+            alert("해야 할 일을 입력해주세요.");
+        }
         localStorage.setItem("todoData", JSON.stringify([...todoData, newTodo]));
 
         // 입력란에 있던 글씨 지워주기
